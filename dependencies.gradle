@@ -1,0 +1,15 @@
+ext {
+    libraryVersionName = '0.0.1'
+
+    // Bintray setting info
+    repositoryName = 'weekcalendar' // Bintray repository name
+    packageName = 'weekcalendar.dev' // module name
+
+    description = 'weekcalendar'
+
+    websiteUrl = 'https://github.com/cokeys90/WeekCalendar'
+    gitHubRepoUrl = 'https://github.com/cokeys90/WeekCalendar.git'
+
+    githubRepo = 'cokeys90/WeekCalendar'
+    githubReleaseNotesFile = 'README.md'
+}
