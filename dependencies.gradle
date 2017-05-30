@@ -1,9 +1,9 @@
 ext {
-    libraryVersionName = '0.0.1'
+    libraryVersionName = '1.0'
 
     // Bintray setting info
     repositoryName = 'weekcalendar' // Bintray repository name
-    packageName = 'weekcalendar.dev' // module name
+    packageName = 'weekcalendar' // module name
 
     description = 'weekcalendar'
 

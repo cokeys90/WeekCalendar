@@ -15,7 +15,7 @@ bintray {
     pkg {
         repo = rootProject.ext.repositoryName
         // Repository name (Created in the repository Bintray site)
-        name = 'cokeys90-androdi-'
+        name = 'cokeys90'
         userOrg = user
         // An optional organization name when the repo belongs to one of the user's orgs
         desc = 'WeekCalendar library' // Optional
